@@ -1,1 +1,4 @@
-opload.txt
+opload.txt 
+Edit Online
+Edit Offline
+
